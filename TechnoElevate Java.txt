@@ -1,0 +1,94 @@
+1) Program
+2) Software
+3) Applications
+4) Programming Language
+5) Platform
+6) Operating System
+7) Processor 
+8) RAM vs ROM
+9) Java 
+10) Platform Independence or WORA Architecture
+11) JDK, JRE, JVM, JIT
+12) Class, Object
+13) Object Oriented Principles
+14) Syntax of a PL
+15) Tokens 
+16) Keywords
+17) Identifier and Identifier rules
+18) Java Compilation process and execution process
+19) Source code, Bytecode
+20) Error
+21) Compiler , Interpreter 
+22) Variable ( Local , Instance, Static) and (Primitive, Reference)
+23) Datatypes , Literals 
+24) Methods and it's Parameter, Arguement
+25) Method Signature
+26) Object Creation or Instantiation
+27) Different ways of intializing instance variables 
+28) Constructor
+29) Types of Constructor (Default, zero-param, parameterized )
+30) Variable Shadowing
+31) this, this(), super, super()
+32) Constructor Overloading
+33) Method Overloading
+34) Inheritance and it's types
+35) Object class
+36) Constructor chaining and it's rules
+37) Implicit Constructor Chaining
+38) Package 
+39) Access Specifiers 
+40) Method Overriding and it's rules 
+41) Annotations
+42) Runtime Polymorphism vs Compiletime Polymorphism
+
+
+
+
+a) History of java
+b) Java Versions and nicknames
+c) Features of java
+d) How java is simple 
+e) How java is strongly typed programming language
+f) Is java pure object oriented programming language
+g) Array 
+h) Annonymous Array
+i) Var-arg methds
+j) Main Method Operators
+k) Type casting
+l) Flow control statements
+m) Java source file structures 
+n) import
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

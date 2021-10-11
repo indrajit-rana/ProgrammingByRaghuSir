@@ -1,0 +1,161 @@
+1) WAJPT the sum of digits of a number(74+36).
+
+2)WAJPT divide two number and print on the screen.(50/3)
+
+3)WAJPT print the result of the follwing operator.
+a) -5+8*6
+b)(55+9)%9
+c)20+3*5/8
+d.5+15*2-3%3
+
+4)WAJPT that takes two numbers as input and display the product of two numbers.
+
+5)WAJPT read two integer value from the user and print their difference.
+
+6)WAJPT read two integer values from the user and print biggest one.
+
+7)WAJPT read three integer values from the user and print biggest one.
+
+8)WAJPT read the integer is positive or negetive.
+
+9)WAJPT read two integers values from the user and print biggest among those two number by using if-else.
+
+10)WAJPT one integer value from the user and print that number is even or odd.
+
+11)WAJPT one integer values from the user and print it is 0 or not 0.
+
+12)WAJPT one integer values from the user and print that integer is digit or number.
+
+13)WAJPT one integer values from the user and print that integer is a special two digit number or not.
+
+14)WAJPT read three integer values from the user and print biggest among those 3.
+
+15)WAJPT read 4 subject marks of a student and print is result is either pass or fail.
+
+16)WAJPT read month number from the user and print how many days in that month.
+
+17)WAJPT read four floating point values from the users and print smallest.
+
+18)WAJPT read month number from the user and print it is valid or invalid.
+
+19)WAJPT read three distinct integer value from the users and print middle value.
+
+20)WAJPT read day number from the user and print the corresponding day name.
+
+21)WAJPT read the year from the user and print the year is leapyear or not .
+
+22)WAJPT read integer value from the user and print that integer is a 2 digit number or not.
+
+23)WAJPT read the date (DD-MM-YYYY) from the user and print that date is valid or not.
+
+24)Read integer value from the user if that number is divisible by 3 print sanju,if number is divisible by 5 print geeta,if number is divisible by both 3 and 5 print sanju weds geeta otherwise print breakup.
+
+25)WAJPT read 4 integers value from the user and print biggest among those 4.
+
+26)WAJPT read 3 integer value from the user and print difference between smallest and biggest.
+
+27)WAJPT read the day number from user and print by switch case.
+
+28)Read four subject marks of a student and print its result like distintion, 1st class, 2nd class ,pass or fail.
+
+29)WAJPT print the number is even or odd by using switch case.
+
+30)WAJPT  read month number from the user and print how many days in a month by using switch case.
+
+31)WAJPT check user entered number is 3 digit or not.
+
+32)WAJPT read the month number from the user and print corresponding how many days in that month.
+
+33)WAJPT print the number is even or odd using conditional operator.
+
+			CONDITIONAL OPERATOR
+
+34)WAJPT read 3 integer values from the user and print biggest among those 3 integer by using conditional operator.
+
+35)WAJPT print number is -ve or +ve by using conditional operator.
+
+36)WAJPT print the user entered year is leapyear or not by using conditional operator.
+
+37)WAJPT print biggest among 4 integers by using conditional operator.
+
+37)WAJPT print how many days in the month by using conditional operator.
+
+38)WAJPT print user entered number is special two digit number or not by using condition operator. 
+
+39)WAJPT print the number between 1 to n.
+
+40)WAJPT print the number n to 1.
+
+41)WAJPT print the sum of 1st n number.
+
+42)WAJPT print how many factor for n.
+
+43)WAJPT print even numbers within n.
+
+44)WAJPT print the sum of odd number within n.
+
+45)WAJPT calculate the sum of divisor of n.
+
+46)WAJPT print the factorial of n.
+
+47)WAJPT print the multiplication table of n.
+
+48)WAJPT check user entered number is prime number or not.
+
+49)WAJPT user entered number is perfect number or not.
+
+50)WAJPT print how many digit present in a number.
+
+51)WAJPT calculate the sum of digits in the number.
+
+52)WAJPT calculate the sum of square of its digit.
+
+53)WAJPT check user entered number is neon number or not.
+
+54)WAJPT check user entered number is armstrong number or not.
+
+55)WAJPT check user entered integer is palindrome or not.
+
+56)WAJPT check entered number is Xyelem or Phloem.
+
+57)WAJPT define a method to written sum of digits in the number.
+
+58)WAJPT define a method to return true if the number is prime otherwise return false.
+
+59)WAJPT define a method to return biggest among three number.
+
+60)WAJPT define a method to display area and circumference of a circle.
+
+61)WAJPT define a method to print area and perimeter of a rectangle.
+
+62)WAJPT define a method to return true if the number is Palindrome otherwise return false.
+
+63)WAJPT print how many prime number within n.
+
+64)WAJPT calculate the sum of prime number within n.
+
+65)WAJPT define a method to return true if the number is perfect .
+
+66)WAJPT define a method to return true if the number is Armstrong number otherwise false.
+
+67)Print gow many perfect number within n.
+
+68)Calculate the sum of perfect number within n.
+
+69)Print how many Strong number within 1000.
+
+70)Check user entered number is Deserium number or not.
+
+71)WAJPT define a method to return true if the number is happy number.
+
+72)WAJPT print what are the happy numbers within 100.
+
+73)WAJPT print what are the armstrong number within 1000.
+
+74)WAJPT print how many deserium number are there within 1000.
+
+75)WAJPT print deserium number within n.
+
+76)WAJPT  calculate the sum of strong number within 1000.
+
+77)Define a student class with six instance properties like Student ID , Student Name and four subject marks and define following methods get result get percentage.

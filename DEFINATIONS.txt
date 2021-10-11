@@ -1,0 +1,47 @@
+1) SOFTWARE :-
+
+Software is a collection of programs meant for performing some particular task or obtaining some objectives.
+
+2) PROGRAM :- 
+
+Program is a set of instructions to the platform for performing some tasks.
+
+
+3) PLATFORM :-
+
+Platform is the combination of an operating system and processor.
+Platform internally communicate and control the hardware systems. 
+
+4) DATA :-
+
+Data is a row fact that describes about the properties or attribute of an object or an entity.
+
+
+4) DATA STRUCTURE :-
+
+Data structure can be defined as the arrangements of collection of data items in the main memory so that they can be utilized and
+operations on them can be performed efficiently.
+
+5) DATABASE : -
+
+Database is a place where we can store the data in a systematic and an organised manner so that it can be managed and maintained properly
+whenever required.
+
+6) ALGORITHM :-
+
+Algorithm is defined as a step by step process to solve a computational problem in a finite steps.
+The characteristics of an algorithm are :-
+	Input, output, definiteness, finiteness, effectiveness
+
+7) TOKEN :-
+
+Tokens are the smallest individual units in a programming language without whom we cannot write a single program.
+Tokens in java are :- Identifier, Keywords, Datatypes, literal, Operators etc.
+
+
+8) ARRAY :
+
+Array is an indexed collection of fixed numbers of homogeneous data elements.
+
+
+

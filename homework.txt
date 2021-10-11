@@ -1,0 +1,9 @@
+// write a java program to read the radius of a circle from the user and print area and circumference of the circle .
+
+// write a java program to read the two integer values from the user and perform all the arithmatic operations and print the results.
+
+// write a java program to read the length and bredth of a rectangle and print the area and circumference.
+
+// write a java program to read the side of a square and print the area and perimeter.
+
+// write a java program to read your name and mobile number and display.
